@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: bobobox Blog #사이트 제목
 description: description #사이트 설명
-baseurl: "/just-the-docs" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://boboboc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
